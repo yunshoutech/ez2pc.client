@@ -2,6 +2,6 @@
 File list as following:
 -------------------------
 File name:vncviewer.rar
-Usage : client for Ez2pc
 
+Usage : client for Ez2pc
 ------------------------
